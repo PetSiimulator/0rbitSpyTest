@@ -15,28 +15,28 @@ end
 local colorSettings =
 {
     ["Main"] = {
-        ["HeaderColor"] = Color3.fromRGB(0, 168, 255),
-        ["HeaderShadingColor"] = Color3.fromRGB(0, 151, 230),
-        ["HeaderTextColor"] = Color3.fromRGB(47, 54, 64),
-        ["MainBackgroundColor"] = Color3.fromRGB(47, 54, 64),
-        ["InfoScrollingFrameBgColor"] = Color3.fromRGB(47, 54, 64),
-        ["ScrollBarImageColor"] = Color3.fromRGB(127, 143, 166)
+        ["HeaderColor"] = Color3.fromRGB(255, 255, 255),
+        ["HeaderShadingColor"] = Color3.fromRGB(255, 255, 255),
+        ["HeaderTextColor"] = Color3.fromRGB(0, 0, 0),
+        ["MainBackgroundColor"] = Color3.fromRGB(255, 255, 255),
+        ["InfoScrollingFrameBgColor"] = Color3.fromRGB(255, 255, 255),
+        ["ScrollBarImageColor"] = Color3.fromRGB(255, 255, 255)
     },
     ["RemoteButtons"] = {
-        ["BorderColor"] = Color3.fromRGB(113, 128, 147),
-        ["BackgroundColor"] = Color3.fromRGB(53, 59, 72),
-        ["TextColor"] = Color3.fromRGB(220, 221, 225),
-        ["NumberTextColor"] = Color3.fromRGB(203, 204, 207)
+        ["BorderColor"] = Color3.fromRGB(255, 255, 255),
+        ["BackgroundColor"] = Color3.fromRGB(255, 255, 255),
+        ["TextColor"] = Color3.fromRGB(0, 0, 0),
+        ["NumberTextColor"] = Color3.fromRGB(0, 0, 0)
     },
     ["MainButtons"] = { 
-        ["BorderColor"] = Color3.fromRGB(113, 128, 147),
-        ["BackgroundColor"] = Color3.fromRGB(53, 59, 72),
-        ["TextColor"] = Color3.fromRGB(220, 221, 225)
+        ["BorderColor"] = Color3.fromRGB(255, 255, 255),
+        ["BackgroundColor"] = Color3.fromRGB(255, 255, 255),
+        ["TextColor"] = Color3.fromRGB(0, 0, 0)
     },
     ['Code'] = {
-        ['BackgroundColor'] = Color3.fromRGB(35, 40, 48),
-        ['TextColor'] = Color3.fromRGB(220, 221, 225),
-        ['CreditsColor'] = Color3.fromRGB(108, 108, 108)
+        ['BackgroundColor'] = Color3.fromRGB(255, 255, 255),
+        ['TextColor'] = Color3.fromRGB(0, 0, 0),
+        ['CreditsColor'] = Color3.fromRGB(0, 0, 0)
     },
 }
 
